@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alessandrapiliero92@gmail.com
+	name = Alessandra Piliero
